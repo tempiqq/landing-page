@@ -1,2 +1,1 @@
-    - [DEMO LINK](https://tempiqq.github.io/landing-page/)
-    
+- [DEMO LINK](https://tempiqq.github.io/landing-page/)
