@@ -1,5 +1,5 @@
-- [DEMO LINK](https://tempiqq.github.io/landing-page/)
-- 🔗 [Переглянути макет у Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-211&p=f&t=vyM4EXL2iCNsB6fU-0)
+- 🔗 [DEMO LINK](https://tempiqq.github.io/landing-page/)
+- 🔗 [Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-211&p=f&t=vyM4EXL2iCNsB6fU-0)
 
 
 Tech Stack: HTML5, SCSS (Sass), JavaScript
